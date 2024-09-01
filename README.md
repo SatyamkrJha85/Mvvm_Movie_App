@@ -5,7 +5,7 @@ This is a movie app built using Jetpack Compose, Coil, MVVM architecture, and Re
 ## Features
 
 - **Search Movies**: Users can search for movies by title.
-- **View Movie Details**: Users can view details about a selected movie, including its title, release date, synopsis, and more.
+- **View Movie Details**: Users can view details about a selected movie, including its title, release date, synopsis, and more..
 
 ## Screenshots
 
